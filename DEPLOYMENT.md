@@ -76,6 +76,6 @@ Rate limit — 15 request liên tiếp, cùng X-User-Id
 
 ## Ảnh Chụp Màn Hình
 
-- `screenshots/health.png` — ảnh thật của endpoint `/health`, đã chụp từ Edge.
-- `screenshots/dashboard.png` — cần chụp thủ công trong Railway sau khi đăng nhập;
+- `screenshots/health.png` 
+- `screenshots/dashboard.png` 
   ảnh phải thể hiện project có hai service `agent` và `Redis`.
