@@ -6,7 +6,7 @@
 > Cách trả lời: thay từng dòng trả lời mẫu bằng câu trả lời của bạn.
 > `grade.py` đếm số câu đã trả lời (15 điểm cho 10 câu).
 >
-> Họ và tên: Trịnh Hoàng Tùng  Mã học viên: L3A202602937
+> Họ và tên: Trịnh Hoàng Tùng  Mã học viên: 2A202602937
 
 ---
 
