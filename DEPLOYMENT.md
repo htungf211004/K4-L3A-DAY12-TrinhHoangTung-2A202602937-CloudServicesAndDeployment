@@ -5,7 +5,7 @@
 | Mục | Nội dung |
 |-----|----------|
 | Họ và tên | Trịnh Hoàng Tùng |
-| Mã học viên | L3A202602937 |
+| Mã học viên | 2A202602937 |
 | Repo | https://github.com/htungf211004/K4-L3A-DAY12-TrinhHoangTung-2A202602937-CloudServicesAndDeployment |
 
 ## Service
